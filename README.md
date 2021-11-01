@@ -4,6 +4,8 @@
 
 ### :label: Site institucional de uma empresa especializada em organizar eventos. Empresa fictícia.
 
+:page_facing_up: Site criado como prática de Web Design.
+
 :page_facing_up: O site é responsivo e otimizado para diversos dispositivos.
 
 ### :pushpin:	Desenvolvimento: 
